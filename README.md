@@ -1,5 +1,7 @@
 #  Snake-Water-Gun Game
 
+---
+
 ##  Overview
 
 This is a fun, interactive web-based game inspired by the classic "Rock, Paper, Scissors" concept, but with a twist! In this version,

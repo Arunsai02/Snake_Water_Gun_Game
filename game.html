@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>
+      Game   
+    </title>
+    <link rel="stylesheet" href="game.css">
+  </head>
+  
+  <body>
+   <p class="title">Snake🐍 Water🌊 Gun🔫</p>
+   <img class="image" src="emojis/snake.png" onclick="
+    playGame('Snake')">
+   <img class="image" src="emojis/water.png" onclick="
+   playGame('Water')">
+   <img class="image" src="emojis/gun.png" onclick=" 
+   playGame('Gun')"><br>
+      <p class="js-result result"></p>
+      <p  class="js-moves moves"></p>
+      <p class="js-score score"></p>
+      <button class="reset-button" onclick="resetScore()">Reset score</button>
+
+    <script src="game.js"></script>
+   
+  </body>
+</html>

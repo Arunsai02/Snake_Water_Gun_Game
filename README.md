@@ -1,6 +1,7 @@
 #  Snake-Water-Gun Game
 
 ---
+Play the game here - [Click to Play](https://arunsai02.github.io/Snake_Water_Gun_Game/)
 
 ##  Overview
 
